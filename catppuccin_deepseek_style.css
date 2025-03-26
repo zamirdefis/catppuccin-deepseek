@@ -1,0 +1,76 @@
+/*I'll tell you in advance that I don't know anything about css*/
+body {
+    --dsr-main: #cba6f7 !important;
+    --dsr-bg: #1e1e2e !important;
+    --dsr-side-bg: #181825 !important;
+    --dsr-input-bg: #181825 !important;
+}
+._217e214 { 
+    /*new chat*/
+    background-color: #1e1e2e !important;
+    border-radius: 0px !important;
+    border: 2px solid var(--dsr-button-border-color, #cba6f7) !important;
+    border-radius: 4px !important;
+}
+
+._5a8ac7a { 
+    /*new chat (big)*/
+    background-color: #1e1e2e !important;
+    border-radius: 0px !important;
+    border: 2px solid var(--dsr-button-border-color, #cba6f7) !important;
+    border-radius: 4px !important;
+    width: 87.6% !important;
+}
+
+._5a8ac7a .c7dddcde:hover {
+    background-color: #1e1e2e !important;
+}
+
+.a1e75851 {
+    /*mobile app button*/
+    display: none !important;
+}
+
+._8f60047 {
+  scrollbar-color: #cba6f7 #1e1e2e;
+  scrollbar-width: thin !important; 
+}
+
+._03210fb {
+      scrollbar-color: #cba6f7 #181825;
+  scrollbar-width: thin !important; 
+}
+
+._7436101 {
+    /*send bytton*/
+    background-color: #cca5f4 !important;
+}
+
+.md-code-block {
+    /*code block*/
+    background-color: #181825 !important;
+    border-radius: 0px !important;
+    /*border: 2px solid var(--dsr-button-border-color, #454346) !important;
+    border-radius: 1px !important;*/
+}
+
+.md-code-block-banner {
+    /*code block banner*/
+    background-color: #4d4266 !important;
+    border-radius: 0px !important;
+    border: 2px solid var(--dsr-button-border-color, #cba6f7) !important;
+    border-radius: 4px !important;
+}
+
+._83421f9.b64fb9ae {
+    /*side bar selection (left)*/
+    background-color: #1e1e2e !important;
+        border: 2px solid var(--dsr-button-border-color, #7f689b) !important;
+    border-radius: 4px !important;
+    --dsr-local-active-bg: #181825 !important;
+}
+
+._83421f9 {
+    border-radius: 0px !important;
+    --dsr-local-active-bg: #181825 !important;
+}
