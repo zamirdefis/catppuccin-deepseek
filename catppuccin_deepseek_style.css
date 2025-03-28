@@ -5,6 +5,18 @@ body {
     --dsr-side-bg: #181825 !important;
     --dsr-input-bg: #181825 !important;
 }
+
+.ds-input {
+    /*rename chat*/
+    box-shadow: rgb(197, 135, 251) 0px 0px 0px 2px inset !important;
+    filter: drop-shadow(0 0 1px rgb(199, 47, 255)) !important;
+}
+
+._62b4800 {
+    /*upper gradient*/
+    background: linear-gradient(#2d273ebf 0%,rgba(255,255,255,0) 100%) !important;
+}
+
 ._217e214 { 
     /*new chat*/
     background-color: #1e1e2e !important;
@@ -67,6 +79,7 @@ body {
     background-color: #1e1e2e !important;
         border: 2px solid var(--dsr-button-border-color, #7f689b) !important;
     border-radius: 4px !important;
+    filter: drop-shadow(0 0 1px rgb(130, 47, 255)) !important;
     --dsr-local-active-bg: #181825 !important;
 }
 
