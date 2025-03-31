@@ -6,6 +6,25 @@ body {
     --dsr-input-bg: #181825 !important;
 }
 
+._7eb2358 {
+    /*deepseek avatar*/
+    width: 38px !important;
+    height: 38px !important;
+    overflow: hidden !important;
+    svg {
+        display: none !important;
+        
+    }
+    &::after {
+        content: "";
+        display: block;
+        background: url('https://f2.toyhou.se/file/f2-toyhou-se/users/iRobotiq?14');
+        background-size: cover;
+        width: 100%;
+        height: 100%;
+    }
+}
+
 .ds-input {
     /*rename chat*/
     box-shadow: rgb(197, 135, 251) 0px 0px 0px 2px inset !important;
