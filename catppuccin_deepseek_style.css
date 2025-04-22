@@ -45,6 +45,17 @@ body {
     } 
 }
 
+.a7f3a288 .ds-icon {
+   /*deepseek icon sidebar*/
+    display: none !important;
+}
+
+#root > div > div > div.c3ecdb44 > div.dc04ec1d.a02af2e6 > div.a7f3a288.f0d4f23d > div:nth-child(2) {
+    /*remove the indentation*/
+  margin-top: unset !important;
+  display: unset !important;
+}
+
 ._6c7e7df {
     /*main menu big text*/
     font-size: 0 !important;
